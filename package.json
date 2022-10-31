@@ -1,0 +1,23 @@
+{
+  "name": "pleasant-syntax",
+  "displayName": "Pleasant Syntax",
+  "description": "A high-contrast and vivid dark syntax theme mixing warm and cool colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pleasant Syntax",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pleasant-syntax-color-theme.json"
+      }
+    ]
+  },
+  "repository": "https://github.com/SingularityAzure/pleasant-syntax-code",
+  "publisher": "SingularityAzure"
+}
