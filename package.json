@@ -2,7 +2,7 @@
   "name": "pleasant-syntax",
   "displayName": "Pleasant Syntax",
   "description": "A high-contrast and vivid dark syntax theme mixing warm and cool colors.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.72.0"
   },

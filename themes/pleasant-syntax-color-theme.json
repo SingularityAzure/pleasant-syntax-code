@@ -17,6 +17,10 @@
 		"editorInfo.foreground": "#33588A",
 		"editorHint.foreground": "#57761F",
 	},
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"enumMember": "#2edaff"
+	},
 	"tokenColors": [
 		{
 			"name": "Regular",
