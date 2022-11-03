@@ -19,7 +19,11 @@
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"enumMember": "#2edaff"
+		"enumMember": "#2edaff",
+		"namespace": {
+			"foreground": "#ffb900",
+			"fontStyle": "bold"
+		},
 	},
 	"tokenColors": [
 		{
@@ -173,6 +177,8 @@
 				"storage.type.template",
 				"storage.type.namespace",
 				"storage.type.class",
+				"storage.type.enum",
+				"storage.type.union",
 			],
 			"settings": {
 				"fontStyle": "bold",
